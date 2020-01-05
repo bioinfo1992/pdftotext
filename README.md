@@ -25,7 +25,7 @@ setup 4. 打开DOS 输入
 
     >pdf2txt
   显示如下：
-    usage: C:\Users\bio\Desktop\Work\脚本\CpG\pdf2txt\pdf2txt.exe [-d] [-p pagenos] [-m maxpages] [-P password] [-o output] [-C] [-n] [-A] [-V] [-M char_margin] [-L line_margin] [-W word_margin] [-F boxes_flow] [-Y layout_mode] [-O output_dir] [-R rotation] [-t text|html|xml|tag] [-c codec] [-s scale] file ...
+    usage: pdf2txt.exe [-d] [-p pagenos] [-m maxpages] [-P password] [-o output] [-C] [-n] [-A] [-V] [-M char_margin] [-L line_margin] [-W word_margin] [-F boxes_flow] [-Y layout_mode] [-O output_dir] [-R rotation] [-t text|html|xml|tag] [-c codec] [-s scale] file ...
     
   说明配置成功，如果出现：
   
